@@ -1,0 +1,1 @@
+tensorboard --logdir="神经网络/logs"
